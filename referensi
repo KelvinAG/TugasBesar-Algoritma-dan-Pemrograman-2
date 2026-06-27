@@ -1,0 +1,2 @@
+The Go Authors. (2026). The Go Programming Language Documentation. Diakses dari https://go.dev/doc/ (Referensi resmi untuk penggunaan tipe data struct, slice, fungsi append, dan struktur kontrol perulangan/percabangan pada Golang).
+Go Packages Documentation. (2026). Package fmt. Diakses dari https://pkg.go.dev/fmt (Referensi resmi untuk implementasi fungsi input/output seperti fmt.Scan dan fmt.Printf).
